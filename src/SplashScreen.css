@@ -1,0 +1,41 @@
+/* Full container to center the logo */
+.splash-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full viewport height */
+    background-color: white; /* White background */
+  }
+  
+  /* Logo text styling */
+  .logo-text {
+    text-align: center;
+    font-size: 6em; /* Larger font size */
+    font-weight: 600;
+    font-family: 'Arial', sans-serif;
+    color: #ff6f6f; /* Pink-Red shade */
+    line-height: 0.85em; /* Control vertical spacing between words */
+  }
+  
+  /* Adjusting individual word styles for slight size and color variations */
+  .logo-text p:nth-child(1) {
+    color: #ff6f6f; /* Pinkish Red */
+    font-size: 1em;
+  }
+  
+  .logo-text p:nth-child(2) {
+    color: #ff7f7f; /* Slightly lighter pink */
+    font-size: 1em;
+  }
+  
+  .logo-text p:nth-child(3) {
+    color: #ff9090; /* Even lighter pink */
+    font-size: 1em;
+  }
+  
+  /* Smoothing the transition between words */
+  .logo-text p {
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove padding */
+  }
+  
