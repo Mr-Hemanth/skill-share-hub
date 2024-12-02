@@ -18,7 +18,7 @@
     line-height: 0.85em; /* Control vertical spacing between words */
   }
   
-  
+
   /* Adjusting individual word styles for slight size and color variations */
   .logo-text p:nth-child(1) {
     color: #ff6f6f; /* Pinkish Red */
@@ -35,6 +35,7 @@
     color: #ff9090; /* Even lighter pink */
     font-size: 1em;
   }
+  
   
   /* Smoothing the transition between words */
   .logo-text p {
