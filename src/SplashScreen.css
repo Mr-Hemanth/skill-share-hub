@@ -7,7 +7,7 @@
     background-color: white; /* White background */
   }
   
-  
+
   /* Logo text styling */
   .logo-text {
     text-align: center;
@@ -23,6 +23,7 @@
     color: #ff6f6f; /* Pinkish Red */
     font-size: 1em;
   }
+  
   
   .logo-text p:nth-child(2) {
     color: #ff7f7f; /* Slightly lighter pink */
