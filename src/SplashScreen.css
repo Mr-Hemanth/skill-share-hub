@@ -31,12 +31,13 @@
     font-size: 1em;
   }
   
+  
   .logo-text p:nth-child(3) {
     color: #ff9090; /* Even lighter pink */
     font-size: 1em;
   }
   
-  
+
   /* Smoothing the transition between words */
   .logo-text p {
     margin: 0; /* Remove default margin */
