@@ -1,6 +1,7 @@
 import React from 'react';
 import './SplashScreen.css'; // Import the CSS for styling
 
+
 const SplashScreen = () => {
   return (
     <div className="splash-container">
